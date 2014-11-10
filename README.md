@@ -5,8 +5,8 @@ Project written in Processing simulating candle light shining through a colored 
 
 
 /* This program allows the draw using the metaphor of light shining through a colored object.
-** how to use:
-** move your mouse around to move the light source
+how to use:
+move your mouse around to move the light source
 ** hold down 'c' to shine light through a circle printed in the center
 ** hold down 's' to shine light through a square printed in the center
 ** hold down 'e' to shine light through an ellipse printed in the center
